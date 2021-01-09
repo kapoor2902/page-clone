@@ -37,6 +37,10 @@ body{
     padding-top:10rem;
 }
 
+.nav-item:not(:last-child){ 
+    border-right: 1px solid white;
+}
+
 
 .caption{
     width: 100%;
